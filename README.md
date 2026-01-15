@@ -18,21 +18,25 @@ I am a Quality Engineer focused on **Shift-Left testing** and building scalable 
 | **Automation Core** | **Backend & Data** | **DevOps & Tools** |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=ts,js" /> <br/> **TypeScript / JS** | <img src="https://skillicons.dev/icons?i=postgres,mysql" /> <br/> **SQL (Complex Joins)** | <img src="https://skillicons.dev/icons?i=jenkins,githubactions" /> <br/> **CI/CD Pipelines** |
-| <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/> <br/> **Playwright** | <img src="https://skillicons.dev/icons?i=postman" /> <br/> **Postman / REST** | <img src="https://n8n.io/favicon.png" width="40"/> <br/> **n8n Workflow** |
+| <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/> <br/> **Playwright** | <img src="https://skillicons.dev/icons?i=postman" /> <br/> **Postman / REST** | <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40"/> <br/> **n8n Workflow** |
 | <img src="https://skillicons.dev/icons?i=selenium,java" /> <br/> **Selenium (Java)** | <img src="https://skillicons.dev/icons?i=nodejs" /> <br/> **API Testing** | <img src="https://skillicons.dev/icons?i=docker,git" /> <br/> **Docker / Git** |
 
 ---
 
-## 📂 Featured Projects
+
+## 📂 Featured Projects & Resources
+
+### 📘 [The QA Knowledge Hub](#) *(Coming Soon)*
+*A collection of guides I created for QA teams, including "Database Basics for Testers" and "Manual Testing Strategies."*
+
+### 📡 [API Testing & Architecture](#) *(Coming Soon)*
+*Documentation of API contracts, error handling standards, and edge-case validations (Request/Response mapping).*
 
 ### 🏗️ [Enterprise Playwright Framework](#) *(Coming Soon)*
-*A robust TypeScript-based framework utilizing Page Object Model (POM), custom fixtures, and sharding for parallel execution.*
+*A scalable TypeScript automation framework. Includes my strategy on "What to Automate vs. What to Explore."*
 
 ### 🔄 [n8n ETL Automation](#) *(Coming Soon)*
-*Low-code workflows demonstrating automated SQL-to-API data validation and error handling logic.*
-
-### 📊 [SQL Validation Scripts](#) *(Coming Soon)*
-*Complex SQL queries (Nested Joins/Aggregates) used to verify financial transaction logic and report accuracy.*
+*Low-code workflows demonstrating automated backend data validation.*
 
 ---
 <div align="center">
