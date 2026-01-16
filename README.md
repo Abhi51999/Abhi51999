@@ -26,17 +26,22 @@ I am a Quality Engineer focused on **Shift-Left testing** and building scalable 
 
 ## 📂 Featured Projects & Resources
 
-### 📘 [The QA Knowledge Hub](#) *(Coming Soon)*
+### 🚀 Featured Projects & Resources
+
+#### 1. [Automated Data Integrity Pipeline (ETL)](https://github.com/Abhi51999/n8n-automated-etl-pipelines) *✅*
+* **The Challenge:** Data drift between Internal SQL DB and 3rd-Party CRM was causing 20% increase in support tickets.
+* **The Solution:** Built a self-healing ETL pipeline using **n8n** and **JavaScript** that fetches data in parallel, normalizes date formats, and validates logic.
+* **The Tech:** n8n, Webhooks, JSON, SQL Logic.
+
+#### 2. E-Commerce Playwright Framework (Hybrid) *(In Progress)*
+* Building a scalable end-to-end testing framework using **Playwright** & **TypeScript**.
+* Features: POM (Page Object Model), API+UI Hybrid Testing, and GitHub Actions CI/CD.
+
+#### 3. [The QA Knowledge Hub](#) *(Coming Soon)*
 *A collection of guides I created for QA teams, including "Database Basics for Testers" and "Manual Testing Strategies."*
 
-### 📡 [API Testing & Architecture](#) *(Coming Soon)*
+#### 4. [API Testing & Architecture](#) *(Coming Soon)*
 *Documentation of API contracts, error handling standards, and edge-case validations (Request/Response mapping).*
-
-### 🏗️ [Enterprise Playwright Framework](#) *(Coming Soon)*
-*A scalable TypeScript automation framework. Includes my strategy on "What to Automate vs. What to Explore."*
-
-### 🔄 [n8n ETL Automation](#) *(Coming Soon)*
-*Low-code workflows demonstrating automated backend data validation.*
 
 ---
 <div align="center">
